@@ -230,3 +230,10 @@ gcloud compute instances stop web-instance-01
 [The gcloud cheat sheet](https://cloud.google.com/sdk/docs/cheatsheet "The gcloud cheat sheet")
 
 [The gcloud cheat sheet: Understanding commands](https://cloud.google.com/sdk/docs/cheatsheet#understanding_commands "The gcloud cheat sheet: Understanding commands")
+
+
+ANSWERS TO LAB 1
+
+I ran most of the commands but exceeded the billing quota for the free tier in GCP and couldn't continue. Also, I completed 23 commands out of 31 commands given.
+
+Attached is the screenshot of the error message gotten from the billing quota.
