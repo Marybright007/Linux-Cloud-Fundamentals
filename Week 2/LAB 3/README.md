@@ -24,3 +24,18 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+
+LAB 3 ANSWERS
+
+Question 1: I have created a Linux Virtual Machine using Azure instead of AWS.
+
+Quesion 2: I have installed the Apache web server.
+
+Question 3: I started the service via a command line.
+
+Question 4: I investigated the service via a command line.
+
+Question 5: I successfully stopped the service.
+
+Challenge: Create a boostrapping script that will install and start this service on new EC2 VMs >>>>>>>  ( I have successfully craeted a bootstrapping script that was used to install and start a service on new EC2 VM). Attached are the screenshots.
